@@ -1,0 +1,8 @@
+[01-Apr-2019 08:30:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/metsaotskertiktk/public_html/wordpress/wp-content/themes/freesia-empire/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/metsaotskertiktk/public_html/wordpress/wp-content/themes/freesia-empire/index.php on line 12
+[01-Apr-2019 08:30:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/metsaotskertiktk/public_html/wordpress/wp-content/themes/freesia-empire/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/metsaotskertiktk/public_html/wordpress/wp-content/themes/freesia-empire/index.php on line 12
